@@ -17,24 +17,24 @@ const navbarItems = [
 
 ]
 
-const experience = [
-    {
-        name: "JavaScript",
-        icon: '/javascript.svg',
-    }, {
-        name: "HTML",
-        icon: '/html.svg',
-    }, {
-        name: "CSS",
-        icon: '/css.svg',
-    }, {
-        name: "reactjs",
-        icon: '/reactjs.svg',
-    }, {
-        name: "nodejs",
-        icon: '/nodejs.svg',
-    }
-]
+// const experience = [
+//     {
+//         name: "JavaScript",
+//         icon: '/javascript.svg',
+//     }, {
+//         name: "HTML",
+//         icon: '/html.svg',
+//     }, {
+//         name: "CSS",
+//         icon: '/css.svg',
+//     }, {
+//         name: "reactjs",
+//         icon: '/reactjs.svg',
+//     }, {
+//         name: "nodejs",
+//         icon: '/nodejs.svg',
+//     }
+// ]
 
 const projects = [
     {
